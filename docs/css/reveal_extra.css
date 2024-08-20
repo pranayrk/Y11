@@ -14,3 +14,7 @@
 .reveal em {
 	text-decoration: underline;
 }
+
+.reveal .300height {
+height: 300px;
+}
