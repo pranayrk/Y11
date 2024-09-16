@@ -1,4 +1,5 @@
 map:
   - chapter_10.html
   - 10_1.html
-  - extra_history.html
+    # - extra_history.html
+  - 10_2_10_3.html
