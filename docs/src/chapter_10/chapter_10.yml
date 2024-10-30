@@ -3,4 +3,5 @@ map:
   # - 10_1.html
   # - 10_2_10_3.html
   - 10_4_10_5.html
-    # - exercises_10_1_to_10_5.html
+  - 10_8.html
+  # - exercises_10_1_to_10_5.html
