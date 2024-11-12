@@ -8,7 +8,9 @@
 
 .reveal blockquote {
 	border: 2px solid black;
-	padding: 2%;
+	padding: 5%;
+	font-style: normal;
+	text-align: left;
 }
 
 .reveal em {
