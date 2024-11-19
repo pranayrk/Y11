@@ -1,11 +1,10 @@
 map:
   - chapter_10.html
-  # - 10_1.html
-  # - 10_2_10_3.html
-  # - 10_4_10_5.html
-  - 10_6_10_7.html
-  # - 10_8.html
-  # - 10_9_10_10.html
-  # - chapter_10_exercises.html
-  # - chapter_10_notes.html
-  # - chapter_10_igcse.html
+    # - 10_1.html
+    # - 10_2_10_3.html
+    # - 10_4_10_5.html
+    # - 10_6_10_7.html
+    # - 10_8.html
+    # - 10_9_10_10.html
+    #- chapter_10_exercises.html
+  - chapter_10_notes.html
